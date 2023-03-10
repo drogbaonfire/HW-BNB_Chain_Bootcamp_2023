@@ -1,0 +1,12 @@
+prompt: design a decentralised version of a game like monopoly, if there was no software on a central server
+
+appraoch 1: smart contract
+
+
+cheating
+ensuring agreement about the state of the system
+communication problems (timeouts)
+how to decide who should take the next turn
+how to allow the correct people to join the game
+
+approach 2: a shared transaction account 
